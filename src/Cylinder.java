@@ -30,7 +30,8 @@ public class Cylinder extends Circle {
     public String toString() {
         return "Day la hinh tru" + " co " +
                 " ban kinh la: " + getRadius() +
-                " chieu cao la: " + getHeight();
+                " chieu cao la: " + getHeight() +
+                " mau sac la: " + getColor();
 
     }
 }

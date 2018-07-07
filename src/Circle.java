@@ -1,6 +1,6 @@
 public class Circle {
     private String color = "blue";
-    private double radius = 10;
+    private double radius;
 
     public Circle() {
 
@@ -34,7 +34,7 @@ public class Circle {
     public String toString() {
         return "Day la hinh tron"
                 + " co ban kinh la: "
-                + getRadius() +" co mau la: " + getColor();
+                + radius +" co mau la: " + color;
 
     }
 }
