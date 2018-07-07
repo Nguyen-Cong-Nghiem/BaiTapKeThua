@@ -1,3 +1,5 @@
+package circle;
+
 import java.util.Scanner;
 
 public class Application {

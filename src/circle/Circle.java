@@ -1,3 +1,5 @@
+package circle;
+
 public class Circle {
     private String color = "blue";
     private double radius;
